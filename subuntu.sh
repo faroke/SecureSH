@@ -2,9 +2,9 @@
 #Script By Obscurcia
 #Naoux and FaRoKe
 clear
-	echo "Welcome on Subuntu by Obscurcia Team"
+	echo "Bienvenue sur Subuntu"
 sleep 1 
-	echo "Wait for Checking informations !!"
+	echo "Attention, l'outil vérifie que tout est bien parametrer avant le lancement..."
 sleep 1
 	cat "cat.txt"
 read -p " >>>" mainchoice
@@ -12,7 +12,7 @@ read -p " >>>" mainchoice
 	then
 		echo "Première Action"
 	else
-		echo "Error: Please enter other choice"
+		echo "Error: Veuillez entrer un choix valide !"
 		read -p " >>>" mainchoice	
 	fi
 clear
