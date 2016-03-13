@@ -6,7 +6,7 @@ clear
 sleep 1 
 	echo "Wait for Checking informations !!"
 sleep 1
-	cat "./rsc/cat.txt"
+	cat "cat.txt"
 read -p " >>>" mainchoice
 	if [ $mainchoice = "1" ]
 	then
