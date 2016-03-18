@@ -1,5 +1,5 @@
 #!/bin/bash
-#Script proxychains by FaRoKe
+#Script Fail2Ban by FaRoKe
 clear
 read -p "[>] Quel est votre choix ?
          [1] Lancer Fail2Ban
