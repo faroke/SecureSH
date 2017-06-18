@@ -1,6 +1,5 @@
 #!/bin/sh
-#Script By Obscurcia
-#Naoux and FaRoKe
+#Script by Faroke
 clear
 	echo "Bienvenue sur Subuntu"
 sleep 1 
