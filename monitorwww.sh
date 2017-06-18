@@ -1,9 +1,9 @@
 #!/bin/bash
-#
+#A MODIFIER
 echo -e "----------------------------------------------------------
 Programme de surveillance des fichiers PHP, HTML, HTACCESS & JS
 v 2.0
-contact : https://www.kanjian.fr
+Editeur : https://www.kanjian.fr
 ---------------------------------------------------------- "
 
 Subject="[SRV-001] Rapport surveillance des fichiers : php, html, js, conf, htaccess"
